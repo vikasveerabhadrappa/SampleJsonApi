@@ -1,0 +1,136 @@
+{
+  "prescriptions": [
+    {
+      "id": 1,
+      "RequestedDate": "18/04/2022 02:40 PM",
+      "PatientName": "John Doe",
+      "Medication": "ibuprofin",
+      "Pharmacy": "Pharmacy 1",
+      "RxTransmissionType": "Type 1",
+      "RxTransmissionStatusCode": "200 OK",
+      "AuthorizingProvider": "Jim K",
+      "Actions": ""
+    },
+    {
+      "id": 2,
+      "RequestedDate": "17/04/2022 05:45 PM",
+      "PatientName": "Smith J",
+      "Medication": "Advil",
+      "Pharmacy": "Pharmacy 2",
+      "RxTransmissionType": "Type 3",
+      "RxTransmissionStatusCode": "200 OK",
+      "AuthorizingProvider": "Harry Winston",
+      "Actions": ""
+    },
+    {
+      "id": 3,
+      "RequestedDate": "16/04/2022 09:00 AM",
+      "PatientName": "David S",
+      "Medication": "B Complex",
+      "Pharmacy": "Pharmacy 3",
+      "RxTransmissionType": "Type 2",
+      "RxTransmissionStatusCode": "200 OK",
+      "AuthorizingProvider": "Mike Scott",
+      "Actions": ""
+    },
+    {
+      "id": 4,
+      "RequestedDate": "18/04/2022 02:40 PM",
+      "PatientName": "John Doe",
+      "Medication": "ibuprofin",
+      "Pharmacy": "Pharmacy 1",
+      "RxTransmissionType": "Type 1",
+      "RxTransmissionStatusCode": "200 OK",
+      "AuthorizingProvider": "Jim K",
+      "Actions": ""
+    },
+    {
+      "id": 5,
+      "RequestedDate": "17/04/2022 05:45 PM",
+      "PatientName": "Smith J",
+      "Medication": "Advil",
+      "Pharmacy": "Pharmacy 2",
+      "RxTransmissionType": "Type 3",
+      "RxTransmissionStatusCode": "200 OK",
+      "AuthorizingProvider": "Harry Winston",
+      "Actions": ""
+    },
+    {
+      "id": 6,
+      "RequestedDate": "16/04/2022 09:00 AM",
+      "PatientName": "David S",
+      "Medication": "B Complex",
+      "Pharmacy": "Pharmacy 3",
+      "RxTransmissionType": "Type 2",
+      "RxTransmissionStatusCode": "200 OK",
+      "AuthorizingProvider": "Mike Scott",
+      "Actions": ""
+    },
+    {
+      "id": 7,
+      "RequestedDate": "18/04/2022 02:40 PM",
+      "PatientName": "John Doe",
+      "Medication": "ibuprofin",
+      "Pharmacy": "Pharmacy 1",
+      "RxTransmissionType": "Type 1",
+      "RxTransmissionStatusCode": "200 OK",
+      "AuthorizingProvider": "Jim K",
+      "Actions": ""
+    },
+    {
+      "id": 8,
+      "RequestedDate": "17/04/2022 05:45 PM",
+      "PatientName": "Smith J",
+      "Medication": "Advil",
+      "Pharmacy": "Pharmacy 2",
+      "RxTransmissionType": "Type 3",
+      "RxTransmissionStatusCode": "200 OK",
+      "AuthorizingProvider": "Harry Winston",
+      "Actions": ""
+    },
+    {
+      "id": 9,
+      "RequestedDate": "16/04/2022 09:00 AM",
+      "PatientName": "David S",
+      "Medication": "B Complex",
+      "Pharmacy": "Pharmacy 3",
+      "RxTransmissionType": "Type 2",
+      "RxTransmissionStatusCode": "200 OK",
+      "AuthorizingProvider": "Mike Scott",
+      "Actions": ""
+    },
+    {
+      "id": 10,
+      "RequestedDate": "18/04/2022 02:40 PM",
+      "PatientName": "John Doe",
+      "Medication": "ibuprofin",
+      "Pharmacy": "Pharmacy 1",
+      "RxTransmissionType": "Type 1",
+      "RxTransmissionStatusCode": "200 OK",
+      "AuthorizingProvider": "Jim K",
+      "Actions": ""
+    },
+    {
+      "id": 11,
+      "RequestedDate": "17/04/2022 05:45 PM",
+      "PatientName": "Smith J",
+      "Medication": "Advil",
+      "Pharmacy": "Pharmacy 2",
+      "RxTransmissionType": "Type 3",
+      "RxTransmissionStatusCode": "200 OK",
+      "AuthorizingProvider": "Harry Winston",
+      "Actions": ""
+    },
+    {
+      "id": 12,
+      "RequestedDate": "16/04/2022 09:00 AM",
+      "PatientName": "David S",
+      "Medication": "B Complex",
+      "Pharmacy": "Pharmacy 3",
+      "RxTransmissionType": "Type 2",
+      "RxTransmissionStatusCode": "200 OK",
+      "AuthorizingProvider": "Mike Scott",
+      "Actions": ""
+    }
+  ]
+}
