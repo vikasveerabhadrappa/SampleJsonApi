@@ -1,7 +1,6 @@
 {
   "prescriptions": [
     {
-      "id": 1,
       "RequestedDate": "18/04/2022 02:40 PM",
       "PatientName": "John Doe",
       "Medication": "ibuprofin",
@@ -12,7 +11,6 @@
       "Actions": ""
     },
     {
-      "id": 2,
       "RequestedDate": "17/04/2022 05:45 PM",
       "PatientName": "Jennifer J",
       "Medication": "Advil",
@@ -23,7 +21,6 @@
       "Actions": ""
     },
     {
-      "id": 3,
       "RequestedDate": "16/04/2022 09:00 AM",
       "PatientName": "David S",
       "Medication": "B Complex",
@@ -34,9 +31,8 @@
       "Actions": ""
     },
     {
-      "id": 4,
       "RequestedDate": "18/04/2022 02:40 PM",
-      "PatientName": "John Doe",
+      "PatientName": "John Kennedy",
       "Medication": "ibuprofin",
       "Pharmacy": "Pharmacy 1",
       "RxTransmissionType": "fax_backup",
@@ -45,7 +41,6 @@
       "Actions": ""
     },
     {
-      "id": 5,
       "RequestedDate": "17/04/2022 05:45 PM",
       "PatientName": "Smith J",
       "Medication": "Advil",
@@ -56,7 +51,6 @@
       "Actions": ""
     },
     {
-      "id": 6,
       "RequestedDate": "16/04/2022 09:00 AM",
       "PatientName": "Kate S",
       "Medication": "B Complex",
@@ -67,7 +61,6 @@
       "Actions": ""
     },
     {
-      "id": 7,
       "RequestedDate": "18/04/2022 02:40 PM",
       "PatientName": "Robin J",
       "Medication": "ibuprofin",
@@ -78,7 +71,6 @@
       "Actions": ""
     },
     {
-      "id": 8,
       "RequestedDate": "01/01/2022 05:45 PM",
       "PatientName": "Jada P",
       "Medication": "Advil",
@@ -89,7 +81,6 @@
       "Actions": ""
     },
     {
-      "id": 9,
       "RequestedDate": "11/04/2022 4:00 AM",
       "PatientName": "Emily H",
       "Medication": "B Complex",
@@ -100,7 +91,6 @@
       "Actions": ""
     },
     {
-      "id": 10,
       "RequestedDate": "18/01/2022 04:40 PM",
       "PatientName": "Scarlett K",
       "Medication": "ibuprofin",
@@ -111,7 +101,6 @@
       "Actions": ""
     },
     {
-      "id": 11,
       "RequestedDate": "20/02/2022 05:45 PM",
       "PatientName": "Pam J",
       "Medication": "Advil",
@@ -122,7 +111,6 @@
       "Actions": ""
     },
     {
-      "id": 12,
       "RequestedDate": "16/03/2022 10:00 AM",
       "PatientName": "Keanu R",
       "Medication": "B Complex",
