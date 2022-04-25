@@ -1,45 +1,43 @@
 {
-  "prescriptionDetails": [
-    {
-      "requestedDate": "18/04/2022 02:40 PM",
-      "medication": "ibuprofin",
-      "authorizingProvider": "Jim K",
-      "pharmacy": "Pharmacy 1"
-    },
-    {
-      "requestedDate": "20/01/2022 02:40 PM",
-      "medication": "Vitamin C",
-      "authorizingProvider": "Harry W",
-      "pharmacy": "Pharmacy 2"
-    },
-    {
-      "requestedDate": "20/01/2022 02:40 PM",
-      "medication": "Advil",
-      "authorizingProvider": "Smith W",
-      "pharmacy": "Pharmacy 3"
-    }
-  ],
   "prescriptions": [
     {
       "patientName": "John Doe",
       "birthDate": "31/05/1991",
       "rxTransmissionType": "electronic",
       "rxTransmissionStatusCode": "error",
-      "actions": ""
+      "actions": "",
+      "pharmacyDetails": {
+        "requestedDate": "18/04/2022 02:40 PM",
+        "medication": "ibuprofin",
+        "authorizingProvider": "Jim K",
+        "pharmacy": "Pharmacy 1"
+      }
     },
     {
       "patientName": "Jennifer J",
       "birthDate": "04/05/2000",
       "rxTransmissionType": "fax",
       "rxTransmissionStatusCode": "pending",
-      "actions": ""
+      "actions": "",
+      "pharmacyDetails": {
+        "requestedDate": "20/01/2022 02:40 PM",
+        "medication": "Vitamin C",
+        "authorizingProvider": "Harry W",
+        "pharmacy": "Pharmacy 2"
+      }
     },
     {
       "patientName": "David S",
       "birthDate": "01/01/2000",
       "rxTransmissionType": "electronic",
       "rxTransmissionStatusCode": "pending",
-      "actions": ""
+      "actions": "",
+      "pharmacyDetails": {
+        "requestedDate": "20/01/2022 02:40 PM",
+        "medication": "Advil",
+        "authorizingProvider": "Smith W",
+        "pharmacy": "Pharmacy 3"
+      }
     }
   ]
 }
