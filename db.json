@@ -6,7 +6,7 @@
       "rxTransmissionType": "electronic",
       "rxTransmissionStatusCode": "error",
       "actions": "",
-      "pharmacyDetails": {
+      "prescriptionDetails": {
         "requestedDate": "18/04/2022 02:40 PM",
         "medication": "ibuprofin",
         "authorizingProvider": "Jim K",
@@ -19,7 +19,7 @@
       "rxTransmissionType": "fax",
       "rxTransmissionStatusCode": "pending",
       "actions": "",
-      "pharmacyDetails": {
+      "prescriptionDetails": {
         "requestedDate": "20/01/2022 02:40 PM",
         "medication": "Vitamin C",
         "authorizingProvider": "Harry W",
@@ -32,7 +32,7 @@
       "rxTransmissionType": "electronic",
       "rxTransmissionStatusCode": "pending",
       "actions": "",
-      "pharmacyDetails": {
+      "prescriptionDetails": {
         "requestedDate": "20/01/2022 02:40 PM",
         "medication": "Advil",
         "authorizingProvider": "Smith W",
