@@ -1,46 +1,136 @@
 {
   "prescriptions": [
     {
-      "key": 1,
-      "patientName": "John Doe",
-      "birthDate": "31/05/1991",
-      "rxTransmissionType": "electronic",
-      "rxTransmissionStatusCode": "error",
-      "actions": "",
-      "prescriptionDetails": {
-        "requestedDate": "18/04/2022 02:40 PM",
-        "medication": "ibuprofin",
-        "authorizingProvider": "Jim K",
-        "pharmacy": "Pharmacy 1"
-      }
+      "id": 1,
+      "RequestedDate": "18/04/2022 02:40 PM",
+      "PatientName": "John Doe",
+      "Medication": "ibuprofin",
+      "Pharmacy": "Pharmacy 1",
+      "RxTransmissionType": "electronic",
+      "RxTransmissionStatusCode": "error",
+      "AuthorizingProvider": "Jim K",
+      "Actions": ""
     },
     {
-      "key": 2,
-      "patientName": "Jennifer J",
-      "birthDate": "04/05/2000",
-      "rxTransmissionType": "fax",
-      "rxTransmissionStatusCode": "pending",
-      "actions": "",
-      "prescriptionDetails": {
-        "requestedDate": "20/01/2022 02:40 PM",
-        "medication": "Vitamin C",
-        "authorizingProvider": "Harry W",
-        "pharmacy": "Pharmacy 2"
-      }
+      "id": 2,
+      "RequestedDate": "17/04/2022 05:45 PM",
+      "PatientName": "Jennifer J",
+      "Medication": "Advil",
+      "Pharmacy": "Pharmacy 2",
+      "RxTransmissionType": "fax",
+      "RxTransmissionStatusCode": "pending",
+      "AuthorizingProvider": "Harry Winston",
+      "Actions": ""
     },
     {
-      "key": 3,
-      "patientName": "David S",
-      "birthDate": "01/01/2000",
-      "rxTransmissionType": "electronic",
-      "rxTransmissionStatusCode": "pending",
-      "actions": "",
-      "prescriptionDetails": {
-        "requestedDate": "20/01/2022 02:40 PM",
-        "medication": "Advil",
-        "authorizingProvider": "Smith W",
-        "pharmacy": "Pharmacy 3"
-      }
+      "id": 3,
+      "RequestedDate": "16/04/2022 09:00 AM",
+      "PatientName": "David S",
+      "Medication": "B Complex",
+      "Pharmacy": "Pharmacy 3",
+      "RxTransmissionType": "electronic",
+      "RxTransmissionStatusCode": "pending",
+      "AuthorizingProvider": "Mike Scott",
+      "Actions": ""
+    },
+    {
+      "id": 4,
+      "RequestedDate": "18/04/2022 02:40 PM",
+      "PatientName": "John Doe",
+      "Medication": "ibuprofin",
+      "Pharmacy": "Pharmacy 1",
+      "RxTransmissionType": "fax_backup",
+      "RxTransmissionStatusCode": "error",
+      "AuthorizingProvider": "Jim K",
+      "Actions": ""
+    },
+    {
+      "id": 5,
+      "RequestedDate": "17/04/2022 05:45 PM",
+      "PatientName": "Smith J",
+      "Medication": "Advil",
+      "Pharmacy": "Pharmacy 2",
+      "RxTransmissionType": "fax",
+      "RxTransmissionStatusCode": "error",
+      "AuthorizingProvider": "Harry Winston",
+      "Actions": ""
+    },
+    {
+      "id": 6,
+      "RequestedDate": "16/04/2022 09:00 AM",
+      "PatientName": "Kate S",
+      "Medication": "B Complex",
+      "Pharmacy": "Pharmacy 3",
+      "RxTransmissionType": "electronic",
+      "RxTransmissionStatusCode": "pending",
+      "AuthorizingProvider": "Mike Scott",
+      "Actions": ""
+    },
+    {
+      "id": 7,
+      "RequestedDate": "18/04/2022 02:40 PM",
+      "PatientName": "Robin J",
+      "Medication": "ibuprofin",
+      "Pharmacy": "Pharmacy 1",
+      "RxTransmissionType": "electronic",
+      "RxTransmissionStatusCode": "error",
+      "AuthorizingProvider": "Kelly K",
+      "Actions": ""
+    },
+    {
+      "id": 8,
+      "RequestedDate": "01/01/2022 05:45 PM",
+      "PatientName": "Jada P",
+      "Medication": "Advil",
+      "Pharmacy": "Pharmacy 2",
+      "RxTransmissionType": "fax",
+      "RxTransmissionStatusCode": "error",
+      "AuthorizingProvider": "Harry Winston",
+      "Actions": ""
+    },
+    {
+      "id": 9,
+      "RequestedDate": "11/04/2022 4:00 AM",
+      "PatientName": "Emily H",
+      "Medication": "B Complex",
+      "Pharmacy": "Pharmacy 3",
+      "RxTransmissionType": "electronic",
+      "RxTransmissionStatusCode": "pending",
+      "AuthorizingProvider": "Mike Scott",
+      "Actions": ""
+    },
+    {
+      "id": 10,
+      "RequestedDate": "18/01/2022 04:40 PM",
+      "PatientName": "Scarlett K",
+      "Medication": "ibuprofin",
+      "Pharmacy": "Pharmacy 1",
+      "RxTransmissionType": "fax_backup",
+      "RxTransmissionStatusCode": "error",
+      "AuthorizingProvider": "Ryan K",
+      "Actions": ""
+    },
+    {
+      "id": 11,
+      "RequestedDate": "20/02/2022 05:45 PM",
+      "PatientName": "Pam J",
+      "Medication": "Advil",
+      "Pharmacy": "Pharmacy 2",
+      "RxTransmissionType": "fax",
+      "RxTransmissionStatusCode": "pending",
+      "AuthorizingProvider": "Angela K",
+      "Actions": ""
+    },
+    {
+      "id": 12,
+      "RequestedDate": "16/03/2022 10:00 AM",
+      "PatientName": "Keanu R",
+      "Medication": "B Complex",
+      "Pharmacy": "Pharmacy 3",
+      "RxTransmissionType": "electronic",
+      "RxTransmissionStatusCode": "error",
+      "AuthorizingProvider": "Dwight S",
+      "Actions": ""
     }
   ]
 }
