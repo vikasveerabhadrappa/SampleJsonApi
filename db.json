@@ -1,7 +1,7 @@
 {
   "prescriptions": [
     {
-      "key": 1,
+      "id": 1,
       "patientName": "John Doe",
       "birthDate": "31/05/1991",
       "rxTransmissionType": "electronic",
@@ -16,7 +16,7 @@
       "expanded": false
     },
     {
-      "key": 2,
+      "id": 2,
       "patientName": "Jennifer J",
       "birthDate": "04/05/2000",
       "rxTransmissionType": "fax",
@@ -31,7 +31,7 @@
       "expanded": false
     },
     {
-      "key": 3,
+      "id": 3,
       "patientName": "David S",
       "birthDate": "01/01/2000",
       "rxTransmissionType": "electronic",
@@ -46,7 +46,7 @@
       "expanded": false
     },
     {
-      "key": 4,
+      "id": 4,
       "patientName": "John S",
       "birthDate": "01/01/2010",
       "rxTransmissionType": "electronic",
@@ -61,7 +61,7 @@
       "expanded": false
     },
     {
-      "key": 5,
+      "id": 5,
       "patientName": "Simon S",
       "birthDate": "10/01/2002",
       "rxTransmissionType": "fax",
@@ -76,7 +76,7 @@
       "expanded": false
     },
     {
-      "key": 6,
+      "id": 6,
       "patientName": "Helen F",
       "birthDate": "01/04/2010",
       "rxTransmissionType": "electronic",
@@ -91,7 +91,7 @@
       "expanded": false
     },
     {
-      "key": 7,
+      "id": 7,
       "patientName": "Henry S",
       "birthDate": "01/01/2000",
       "rxTransmissionType": "fax",
@@ -106,7 +106,7 @@
       "expanded": false
     },
     {
-      "key": 8,
+      "id": 8,
       "patientName": "Scarlett D",
       "birthDate": "01/01/2000",
       "rxTransmissionType": "fax",
@@ -121,7 +121,7 @@
       "expanded": false
     },
     {
-      "key": 9,
+      "id": 9,
       "patientName": "Howard J",
       "birthDate": "01/01/2003",
       "rxTransmissionType": "electronic",
@@ -136,7 +136,7 @@
       "expanded": false
     },
     {
-      "key": 10,
+      "id": 10,
       "patientName": "Gamora T",
       "birthDate": "10/01/2005",
       "rxTransmissionType": "fax",
