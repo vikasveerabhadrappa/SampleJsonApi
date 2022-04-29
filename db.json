@@ -149,6 +149,21 @@
         "pharmacy": "Pharmacy 2"
       },
       "expanded": false
+    },
+    {
+      "id": 11,
+      "patientName": "Wanda W",
+      "birthDate": "11/02/2004",
+      "rxTransmissionType": "electornic",
+      "rxTransmissionStatusCode": "error",
+      "actions": "",
+      "prescriptionDetails": {
+        "requestedDate": "21/01/2021 02:40 PM",
+        "medication": "Vitamin C",
+        "authorizingProvider": "Smith W",
+        "pharmacy": "Pharmacy 1"
+      },
+      "expanded": false
     }
   ]
 }
