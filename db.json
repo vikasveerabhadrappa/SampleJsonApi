@@ -4,14 +4,14 @@
       "id": 1,
       "patientName": "John Doe",
       "birthDate": "31/05/1991",
-      "rxTransmissionType": "electronic",
-      "rxTransmissionStatusCode": "error",
       "actions": "",
       "prescriptionDetails": {
         "requestedDate": "18/04/2022 02:40 PM",
         "medication": "ibuprofin",
         "authorizingProvider": "Jim K",
-        "pharmacy": "Pharmacy 1"
+        "pharmacy": "Pharmacy 1",
+        "rxTransmissionType": "electronic",
+        "rxTransmissionStatusCode": "error"
       },
       "expanded": false
     },
@@ -19,14 +19,14 @@
       "id": 2,
       "patientName": "Jennifer J",
       "birthDate": "04/05/2000",
-      "rxTransmissionType": "fax",
-      "rxTransmissionStatusCode": "pending",
       "actions": "",
       "prescriptionDetails": {
         "requestedDate": "20/01/2022 02:40 PM",
         "medication": "Vitamin C",
         "authorizingProvider": "Harry W",
-        "pharmacy": "Pharmacy 2"
+        "pharmacy": "Pharmacy 2",
+        "rxTransmissionType": "fax",
+        "rxTransmissionStatusCode": "pending"
       },
       "expanded": false
     },
@@ -34,14 +34,14 @@
       "id": 3,
       "patientName": "David S",
       "birthDate": "01/01/2000",
-      "rxTransmissionType": "electronic",
-      "rxTransmissionStatusCode": "pending",
       "actions": "",
       "prescriptionDetails": {
         "requestedDate": "20/01/2022 02:40 PM",
         "medication": "Advil",
         "authorizingProvider": "Smith W",
-        "pharmacy": "Pharmacy 3"
+        "pharmacy": "Pharmacy 3",
+        "rxTransmissionType": "electronic",
+        "rxTransmissionStatusCode": "pending"
       },
       "expanded": false
     },
@@ -49,14 +49,14 @@
       "id": 4,
       "patientName": "John S",
       "birthDate": "01/01/2010",
-      "rxTransmissionType": "electronic",
-      "rxTransmissionStatusCode": "pending",
       "actions": "",
       "prescriptionDetails": {
         "requestedDate": "20/01/2022 02:40 PM",
         "medication": "Advil",
         "authorizingProvider": "Smith W",
-        "pharmacy": "Pharmacy 3"
+        "pharmacy": "Pharmacy 3",
+        "rxTransmissionType": "electronic",
+        "rxTransmissionStatusCode": "pending"
       },
       "expanded": false
     },
@@ -64,14 +64,14 @@
       "id": 5,
       "patientName": "Simon S",
       "birthDate": "10/01/2002",
-      "rxTransmissionType": "fax",
-      "rxTransmissionStatusCode": "error",
       "actions": "",
       "prescriptionDetails": {
         "requestedDate": "20/01/2022 02:40 PM",
         "medication": "Vitamin B",
         "authorizingProvider": "Smith W",
-        "pharmacy": "Pharmacy 3"
+        "pharmacy": "Pharmacy 3",
+        "rxTransmissionType": "fax",
+        "rxTransmissionStatusCode": "error"
       },
       "expanded": false
     },
@@ -79,14 +79,14 @@
       "id": 6,
       "patientName": "Helen F",
       "birthDate": "01/04/2010",
-      "rxTransmissionType": "electronic",
-      "rxTransmissionStatusCode": "error",
       "actions": "",
       "prescriptionDetails": {
         "requestedDate": "20/01/2022 02:40 PM",
         "medication": "Vitamin K",
         "authorizingProvider": "Smith W",
-        "pharmacy": "Pharmacy 3"
+        "pharmacy": "Pharmacy 3",
+        "rxTransmissionType": "electronic",
+        "rxTransmissionStatusCode": "error"
       },
       "expanded": false
     },
@@ -94,14 +94,14 @@
       "id": 7,
       "patientName": "Henry S",
       "birthDate": "01/01/2000",
-      "rxTransmissionType": "fax",
-      "rxTransmissionStatusCode": "pending",
       "actions": "",
       "prescriptionDetails": {
         "requestedDate": "20/01/2022 02:40 PM",
         "medication": "Advil",
         "authorizingProvider": "Smith W",
-        "pharmacy": "Pharmacy 3"
+        "pharmacy": "Pharmacy 3",
+        "rxTransmissionType": "fax",
+        "rxTransmissionStatusCode": "pending"
       },
       "expanded": false
     },
@@ -109,14 +109,14 @@
       "id": 8,
       "patientName": "Scarlett D",
       "birthDate": "01/01/2000",
-      "rxTransmissionType": "fax",
-      "rxTransmissionStatusCode": "error",
       "actions": "",
       "prescriptionDetails": {
         "requestedDate": "20/01/2022 02:40 PM",
         "medication": "Advil",
         "authorizingProvider": "Harry W",
-        "pharmacy": "Pharmacy 1"
+        "pharmacy": "Pharmacy 1",
+        "rxTransmissionType": "fax",
+        "rxTransmissionStatusCode": "error"
       },
       "expanded": false
     },
@@ -124,14 +124,14 @@
       "id": 9,
       "patientName": "Howard J",
       "birthDate": "01/01/2003",
-      "rxTransmissionType": "electronic",
-      "rxTransmissionStatusCode": "error",
       "actions": "",
       "prescriptionDetails": {
         "requestedDate": "20/01/2022 02:40 PM",
         "medication": "Advil",
         "authorizingProvider": "Smith W",
-        "pharmacy": "Pharmacy 2"
+        "pharmacy": "Pharmacy 2",
+        "rxTransmissionType": "electronic",
+        "rxTransmissionStatusCode": "error"
       },
       "expanded": false
     },
@@ -139,14 +139,14 @@
       "id": 10,
       "patientName": "Gamora T",
       "birthDate": "10/01/2005",
-      "rxTransmissionType": "fax",
-      "rxTransmissionStatusCode": "pending",
       "actions": "",
       "prescriptionDetails": {
         "requestedDate": "20/01/2022 02:40 PM",
         "medication": "Advil",
         "authorizingProvider": "Smith W",
-        "pharmacy": "Pharmacy 2"
+        "pharmacy": "Pharmacy 2",
+        "rxTransmissionType": "fax",
+        "rxTransmissionStatusCode": "pending"
       },
       "expanded": false
     },
@@ -154,14 +154,14 @@
       "id": 11,
       "patientName": "Wanda W",
       "birthDate": "11/02/2004",
-      "rxTransmissionType": "electornic",
-      "rxTransmissionStatusCode": "error",
       "actions": "",
       "prescriptionDetails": {
         "requestedDate": "21/01/2021 02:40 PM",
         "medication": "Vitamin C",
         "authorizingProvider": "Smith W",
-        "pharmacy": "Pharmacy 1"
+        "pharmacy": "Pharmacy 1",
+        "rxTransmissionType": "electornic",
+        "rxTransmissionStatusCode": "error"
       },
       "expanded": false
     }
