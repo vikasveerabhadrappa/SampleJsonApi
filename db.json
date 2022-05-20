@@ -5,42 +5,56 @@
       "patientName": "David Doe",
       "birthDate": "31/05/1991",
       "authorizingProvider": "Jim K",
-      "prescriptionDetails": {
-        "requestedDate": "18/04/2022 02:40 PM",
-        "medication": "ibuprofin",
-        "pharmacy": "Pharmacy 1",
-        "rxTransmissionType": "electronic",
-        "rxTransmissionStatusCode": "error",
-        "preparer": "Jennifer H"
-      }
+      "prescriptionDetails": [
+        {
+          "requestedDate": "18/04/2022 02:40 PM",
+          "medication": "ibuprofin",
+          "pharmacy": "Pharmacy 1",
+          "rxTransmissionType": "electronic",
+          "rxTransmissionStatusCode": "error",
+          "preparer": "Jennifer H"
+        }
+      ]
     },
     {
       "id": 2,
       "patientName": "Akbar B",
       "birthDate": "04/05/2000",
       "authorizingProvider": "Harry W",
-      "prescriptionDetails": {
-        "requestedDate": "20/01/2022 02:40 PM",
-        "medication": "Vitamin C",
-        "pharmacy": "Pharmacy 2",
-        "rxTransmissionType": "fax",
-        "rxTransmissionStatusCode": "pending",
-        "preparer": "Honey G"
-      }
+      "prescriptionDetails": [
+        {
+          "requestedDate": "20/01/2022 02:40 PM",
+          "medication": "Vitamin C",
+          "pharmacy": "Pharmacy 2",
+          "rxTransmissionType": "fax",
+          "rxTransmissionStatusCode": "pending",
+          "preparer": "Honey G"
+        }
+      ]
     },
     {
       "id": 3,
       "patientName": "Elijah S",
       "birthDate": "01/01/2000",
       "authorizingProvider": "Smith W",
-      "prescriptionDetails": {
-        "requestedDate": "20/01/2022 02:40 PM",
-        "medication": "Advil",
-        "pharmacy": "Pharmacy 3",
-        "rxTransmissionType": "electronic",
-        "rxTransmissionStatusCode": "pending",
-        "preparer": "Scarlett W"
-      }
+      "prescriptionDetails": [
+        {
+          "requestedDate": "20/01/2022 02:40 PM",
+          "medication": "Vitamin B",
+          "pharmacy": "Pharmacy 1",
+          "rxTransmissionType": "fax",
+          "rxTransmissionStatusCode": "error",
+          "preparer": "Scarlett W"
+        },
+        {
+          "requestedDate": "20/01/2022 02:40 PM",
+          "medication": "Advil",
+          "pharmacy": "Pharmacy 3",
+          "rxTransmissionType": "electronic",
+          "rxTransmissionStatusCode": "pending",
+          "preparer": "Scarlett W"
+        }
+      ]
     }
   ]
 }
