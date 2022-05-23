@@ -20,7 +20,7 @@
       "id": 2,
       "patientName": "Akbar B",
       "birthDate": "04/05/2000",
-      "authorizingProvider": "Harry W",
+      "authorizingProvider": "Andrews W",
       "prescriptionDetails": [
         {
           "requestedDate": "20/01/2022 02:40 PM",
@@ -53,6 +53,22 @@
           "rxTransmissionType": "electronic",
           "rxTransmissionStatusCode": "pending",
           "preparer": "Scarlett W"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "patientName": "Brad B",
+      "birthDate": "04/05/1996",
+      "authorizingProvider": "Harry W",
+      "prescriptionDetails": [
+        {
+          "requestedDate": "20/01/2022 02:40 PM",
+          "medication": "Vitamin C",
+          "pharmacy": "Pharmacy 2",
+          "rxTransmissionType": "fax",
+          "rxTransmissionStatusCode": "pending",
+          "preparer": "Honey G"
         }
       ]
     }
