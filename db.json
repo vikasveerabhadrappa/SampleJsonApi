@@ -7,7 +7,7 @@
       "authorizingProvider": "Winston, Harry S",
       "prescriptionDetails": [
         {
-          "requestedDate": "18/04/2022 02:40 PM",
+          "requestedDate": "18/04/2022",
           "medication": "Advil 200 mg tablet",
           "pharmacy": "Boulevard Pharmacy (Boulevard) (C) (R) (E) - 1117 S.E. Frank Phillips Blvd., Bartlesville OK 740034319",
           "rxTransmissionType": "Electronic",
@@ -23,7 +23,7 @@
       "authorizingProvider": "Topper, Henry P",
       "prescriptionDetails": [
         {
-          "requestedDate": "20/01/2021 03:00 AM",
+          "requestedDate": "20/01/2021",
           "medication": "Zoloft 100 mg table",
           "pharmacy": "CHICKASAW NATION HEALTH DEPT (C) (R) (E) - 1921 STONECIPHER BOULEVARD, ADA OK 74820",
           "rxTransmissionType": "Fax",
@@ -39,7 +39,7 @@
       "authorizingProvider": "Starr, Kelly P",
       "prescriptionDetails": [
         {
-          "requestedDate": "20/01/2022 02:40 PM",
+          "requestedDate": "20/01/2022",
           "medication": "Vitamin B-1 (mononitrate) 100 mg tablet",
           "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
           "rxTransmissionType": "Fax",
@@ -47,7 +47,7 @@
           "preparer": "Winston, Harry S"
         },
         {
-          "requestedDate": "20/01/2022 02:40 PM",
+          "requestedDate": "20/01/2022",
           "medication": "Zoloft 100 mg table",
           "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
           "rxTransmissionType": "Electronic",
@@ -63,7 +63,7 @@
       "authorizingProvider": "Wiston, Harry S",
       "prescriptionDetails": [
         {
-          "requestedDate": "20/01/2022 02:40 PM",
+          "requestedDate": "20/01/2022",
           "medication": "atenolol 100 mg tablet",
           "pharmacy": "Brooklyn @ Gates Pharmacy (C) (R) (SP) (LTC) (E) - 92 Gates Ave (Gates & Washington Aves), Brooklyn NY 11238",
           "rxTransmissionType": "Fax",
