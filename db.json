@@ -10,8 +10,8 @@
           "requestedDate": "18/04/2022 02:40 PM",
           "medication": "Advil 200 mg tablet",
           "pharmacy": "Boulevard Pharmacy (Boulevard) (C) (R) (E) - 1117 S.E. Frank Phillips Blvd., Bartlesville OK 740034319",
-          "rxTransmissionType": "electronic",
-          "rxTransmissionStatusCode": "error",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Error",
           "preparer": "Miller, Jennifer S"
         }
       ]
@@ -23,11 +23,11 @@
       "authorizingProvider": "Topper, Henry P",
       "prescriptionDetails": [
         {
-          "requestedDate": "20/01/2022 02:40 PM",
+          "requestedDate": "20/01/2021 03:00 AM",
           "medication": "Zoloft 100 mg table",
           "pharmacy": "CHICKASAW NATION HEALTH DEPT (C) (R) (E) - 1921 STONECIPHER BOULEVARD, ADA OK 74820",
-          "rxTransmissionType": "fax",
-          "rxTransmissionStatusCode": "pending",
+          "rxTransmissionType": "Fax",
+          "rxTransmissionStatusCode": "Pending",
           "preparer": "Brown, Chris H"
         }
       ]
@@ -35,23 +35,23 @@
     {
       "id": 3,
       "patientName": "Elijah Johnson",
-      "birthDate": "01/01/2000",
+      "birthDate": "01/04/2010",
       "authorizingProvider": "Starr, Kelly P",
       "prescriptionDetails": [
         {
           "requestedDate": "20/01/2022 02:40 PM",
           "medication": "Vitamin B-1 (mononitrate) 100 mg tablet",
           "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
-          "rxTransmissionType": "fax",
-          "rxTransmissionStatusCode": "error",
+          "rxTransmissionType": "Fax",
+          "rxTransmissionStatusCode": "Error",
           "preparer": "Winston, Harry S"
         },
         {
           "requestedDate": "20/01/2022 02:40 PM",
           "medication": "Zoloft 100 mg table",
           "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
-          "rxTransmissionType": "electronic",
-          "rxTransmissionStatusCode": "pending",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Pending",
           "preparer": "Topper, Henry P"
         }
       ]
@@ -66,8 +66,8 @@
           "requestedDate": "20/01/2022 02:40 PM",
           "medication": "atenolol 100 mg tablet",
           "pharmacy": "Brooklyn @ Gates Pharmacy (C) (R) (SP) (LTC) (E) - 92 Gates Ave (Gates & Washington Aves), Brooklyn NY 11238",
-          "rxTransmissionType": "fax",
-          "rxTransmissionStatusCode": "pending",
+          "rxTransmissionType": "Fax",
+          "rxTransmissionStatusCode": "Pending",
           "preparer": "Starr, Kelly P"
         }
       ]
