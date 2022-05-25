@@ -4,71 +4,71 @@
       "id": 1,
       "patientName": "David Doe",
       "birthDate": "31/05/1991",
-      "authorizingProvider": "Jim K",
+      "authorizingProvider": "Winston, Harry S",
       "prescriptionDetails": [
         {
           "requestedDate": "18/04/2022 02:40 PM",
-          "medication": "ibuprofin",
-          "pharmacy": "Pharmacy 1",
+          "medication": "Advil 200 mg tablet",
+          "pharmacy": "Boulevard Pharmacy (Boulevard) (C) (R) (E) - 1117 S.E. Frank Phillips Blvd., Bartlesville OK 740034319",
           "rxTransmissionType": "electronic",
           "rxTransmissionStatusCode": "error",
-          "preparer": "Jennifer H"
+          "preparer": "Miller, Jennifer S"
         }
       ]
     },
     {
       "id": 2,
-      "patientName": "Akbar B",
+      "patientName": "Anish Lee",
       "birthDate": "04/05/2000",
-      "authorizingProvider": "Andrews W",
+      "authorizingProvider": "Topper, Henry P",
       "prescriptionDetails": [
         {
           "requestedDate": "20/01/2022 02:40 PM",
-          "medication": "Vitamin C",
-          "pharmacy": "Pharmacy 2",
+          "medication": "Zoloft 100 mg table",
+          "pharmacy": "CHICKASAW NATION HEALTH DEPT (C) (R) (E) - 1921 STONECIPHER BOULEVARD, ADA OK 74820",
           "rxTransmissionType": "fax",
           "rxTransmissionStatusCode": "pending",
-          "preparer": "Honey G"
+          "preparer": "Brown, Chris H"
         }
       ]
     },
     {
       "id": 3,
-      "patientName": "Elijah S",
+      "patientName": "Elijah Johnson",
       "birthDate": "01/01/2000",
-      "authorizingProvider": "Smith W",
+      "authorizingProvider": "Starr, Kelly P",
       "prescriptionDetails": [
         {
           "requestedDate": "20/01/2022 02:40 PM",
-          "medication": "Vitamin B",
-          "pharmacy": "Pharmacy 1",
+          "medication": "Vitamin B-1 (mononitrate) 100 mg tablet",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
           "rxTransmissionType": "fax",
           "rxTransmissionStatusCode": "error",
-          "preparer": "Scarlett W"
+          "preparer": "Winston, Harry S"
         },
         {
           "requestedDate": "20/01/2022 02:40 PM",
-          "medication": "Advil",
-          "pharmacy": "Pharmacy 3",
+          "medication": "Zoloft 100 mg table",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
           "rxTransmissionType": "electronic",
           "rxTransmissionStatusCode": "pending",
-          "preparer": "Scarlett W"
+          "preparer": "Topper, Henry P"
         }
       ]
     },
     {
       "id": 4,
-      "patientName": "Brad B",
+      "patientName": "Brad Smith",
       "birthDate": "04/05/1996",
-      "authorizingProvider": "Harry W",
+      "authorizingProvider": "Wiston, Harry S",
       "prescriptionDetails": [
         {
           "requestedDate": "20/01/2022 02:40 PM",
-          "medication": "Vitamin C",
-          "pharmacy": "Pharmacy 2",
+          "medication": "atenolol 100 mg tablet",
+          "pharmacy": "Brooklyn @ Gates Pharmacy (C) (R) (SP) (LTC) (E) - 92 Gates Ave (Gates & Washington Aves), Brooklyn NY 11238",
           "rxTransmissionType": "fax",
           "rxTransmissionStatusCode": "pending",
-          "preparer": "Honey G"
+          "preparer": "Starr, Kelly P"
         }
       ]
     }
