@@ -11,8 +11,7 @@
           "medication": "Advil 200 mg tablet",
           "pharmacy": "Boulevard Pharmacy (Boulevard) (C) (R) (E) - 1117 S.E. Frank Phillips Blvd., Bartlesville OK 740034319",
           "rxTransmissionType": "Electronic",
-          "rxTransmissionStatusCode": "Error",
-          "preparer": "Miller, Jennifer S"
+          "rxTransmissionStatusCode": "Error"
         }
       ]
     },
