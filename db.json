@@ -223,6 +223,46 @@
           "preparer": "Starr, Kelly P"
         }
       ]
+    },
+    {
+      "id": 11,
+      "patientName": "Grace Castillo",
+      "birthDate": "18/12/1991",
+      "authorizingProvider": "Winston, Harry S",
+      "prescriptionDetails": [
+        {
+          "requestedDate": "18/04/2022",
+          "medication": "Advil 200 mg tablet",
+          "pharmacy": "Boulevard Pharmacy (Boulevard) (C) (R) (E) - 1117 S.E. Frank Phillips Blvd., Bartlesville OK 740034319",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Error",
+          "preparer": "Miller, Jennifer S"
+        },
+        {
+          "requestedDate": "20/01/2022",
+          "medication": "Zoloft 100 mg table",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Pending",
+          "preparer": "Topper, Henry P"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "patientName": "Lewis Lee",
+      "birthDate": "04/05/2000",
+      "authorizingProvider": "Topper, Henry P",
+      "prescriptionDetails": [
+        {
+          "requestedDate": "20/01/2021",
+          "medication": "Zoloft 100 mg table",
+          "pharmacy": "CHICKASAW NATION HEALTH DEPT (C) (R) (E) - 1921 STONECIPHER BOULEVARD, ADA OK 74820",
+          "rxTransmissionType": "Fax",
+          "rxTransmissionStatusCode": "Pending",
+          "preparer": "Brown, Chris H"
+        }
+      ]
     }
   ]
 }
