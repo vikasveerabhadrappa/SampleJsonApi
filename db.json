@@ -13,6 +13,14 @@
           "rxTransmissionType": "Electronic",
           "rxTransmissionStatusCode": "Error",
           "preparer": "Miller, Jennifer S"
+        },
+        {
+          "requestedDate": "20/01/2022",
+          "medication": "Zoloft 100 mg table",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Pending",
+          "preparer": "Topper, Henry P"
         }
       ]
     },
@@ -53,6 +61,22 @@
           "rxTransmissionType": "Electronic",
           "rxTransmissionStatusCode": "Pending",
           "preparer": "Topper, Henry P"
+        },
+        {
+          "requestedDate": "20/01/2022",
+          "medication": "Zarah 3-0.03 mg tablet (drospirenone-ethinyl estradiol)",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Fax",
+          "rxTransmissionStatusCode": "Pending",
+          "preparer": "Topper, Henry P"
+        },
+        {
+          "requestedDate": "20/01/2022",
+          "medication": "Fanapt 6 mg tablet (iloperidone)",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Error",
+          "preparer": "Topper, Henry P"
         }
       ]
     },
@@ -68,6 +92,22 @@
           "pharmacy": "Brooklyn @ Gates Pharmacy (C) (R) (SP) (LTC) (E) - 92 Gates Ave (Gates & Washington Aves), Brooklyn NY 11238",
           "rxTransmissionType": "Fax",
           "rxTransmissionStatusCode": "Pending",
+          "preparer": "Starr, Kelly P"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "patientName": "Liam Davis",
+      "birthDate": "04/05/1996",
+      "authorizingProvider": "Wiston, Harry S",
+      "prescriptionDetails": [
+        {
+          "requestedDate": "20/01/2022",
+          "medication": "Vitamin C 100 mg tablet (ascorbic acid (vitamin c))",
+          "pharmacy": "Brooklyn @ Gates Pharmacy (C) (R) (SP) (LTC) (E) - 92 Gates Ave (Gates & Washington Aves), Brooklyn NY 11238",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Error",
           "preparer": "Starr, Kelly P"
         }
       ]
