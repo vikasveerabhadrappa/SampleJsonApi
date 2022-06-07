@@ -84,7 +84,7 @@
       "id": 4,
       "patientName": "Brad Smith",
       "birthDate": "04/05/1996",
-      "authorizingProvider": "Wiston, Harry S",
+      "authorizingProvider": "Winston, Harry S",
       "prescriptionDetails": [
         {
           "requestedDate": "20/01/2022",
@@ -100,7 +100,7 @@
       "id": 5,
       "patientName": "Liam Davis",
       "birthDate": "04/05/1996",
-      "authorizingProvider": "Wiston, Harry S",
+      "authorizingProvider": "Winston, Harry S",
       "prescriptionDetails": [
         {
           "requestedDate": "20/01/2022",
@@ -196,7 +196,7 @@
       "id": 9,
       "patientName": "Camila Rodriguez",
       "birthDate": "04/05/1986",
-      "authorizingProvider": "Wiston, Harry S",
+      "authorizingProvider": "Winston, Harry S",
       "prescriptionDetails": [
         {
           "requestedDate": "20/01/2022",
@@ -212,7 +212,7 @@
       "id": 10,
       "patientName": "Sofia Young",
       "birthDate": "05/05/1990",
-      "authorizingProvider": "Wiston, Harry S",
+      "authorizingProvider": "Winston, Harry S",
       "prescriptionDetails": [
         {
           "requestedDate": "20/01/2022",
