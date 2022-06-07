@@ -2,7 +2,7 @@
   "prescriptions": [
     {
       "id": 1,
-      "patientName": "David Doe",
+      "patientName": "Eleanor Jones",
       "birthDate": "31/05/1991",
       "authorizingProvider": "Winston, Harry S",
       "prescriptionDetails": [
@@ -42,7 +42,7 @@
     },
     {
       "id": 3,
-      "patientName": "Elijah Johnson",
+      "patientName": "Savannah Johnson",
       "birthDate": "01/04/2010",
       "authorizingProvider": "Starr, Kelly P",
       "prescriptionDetails": [
@@ -82,7 +82,7 @@
     },
     {
       "id": 4,
-      "patientName": "Brad Smith",
+      "patientName": "Ariana Smith",
       "birthDate": "04/05/1996",
       "authorizingProvider": "Winston, Harry S",
       "prescriptionDetails": [
