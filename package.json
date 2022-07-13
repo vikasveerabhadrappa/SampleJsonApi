@@ -1,13 +1,204 @@
 {
-  "name": "fake-apis",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "json:server": "json-server --watch db.json"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "prescriptions": [
+    {
+      "id": 1972691181129730,
+      "patientName": "John Cook",
+      "birthDate": "31/05/1991",
+      "authorizingProvider": "Winston, Harry S",
+      "providerId": 1807526517021910,
+      "prescriptionDetails": [
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "Advil 200 mg tablet",
+          "pharmacy": "Boulevard Pharmacy (Boulevard) (C) (R) (E) - 1117 S.E. Frank Phillips Blvd., Bartlesville OK 740034319",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Error",
+          "preparer": "Miller, Jennifer S"
+        },
+        {
+          "requestedDate": "11/06/2022",
+          "medication": "Zoloft 100 mg table",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Pending",
+          "preparer": "Topper, Henry P"
+        }
+      ]
+    },
+    {
+      "id": 1973124518230450,
+      "patientName": "John Hammer",
+      "birthDate": "04/05/2000",
+      "authorizingProvider": "Topper, Henry P",
+      "providerId": 1807526664022340,
+      "prescriptionDetails": [
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "Zoloft 100 mg table",
+          "pharmacy": "CHICKASAW NATION HEALTH DEPT (C) (R) (E) - 1921 STONECIPHER BOULEVARD, ADA OK 74820",
+          "rxTransmissionType": "Fax",
+          "rxTransmissionStatusCode": "Pending",
+          "preparer": "Brown, Chris H"
+        }
+      ]
+    },
+    {
+      "id": 1973268202429180,
+      "patientName": "Tom Wells",
+      "birthDate": "01/04/2010",
+      "authorizingProvider": "Starr, Kelly P",
+      "providerId": 1966265323589190,
+      "prescriptionDetails": [
+        {
+          "requestedDate": "11/06/2022",
+          "medication": "Vitamin B-1 (mononitrate) 100 mg tablet",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Fax",
+          "rxTransmissionStatusCode": "Error",
+          "preparer": "Winston, Harry S"
+        },
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "Zoloft 100 mg table",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Pending",
+          "preparer": "Topper, Henry P"
+        },
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "Zarah 3-0.03 mg tablet (drospirenone-ethinyl estradiol)",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Fax",
+          "rxTransmissionStatusCode": "Pending",
+          "preparer": "Topper, Henry P"
+        },
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "Fanapt 6 mg tablet (iloperidone)",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Error",
+          "preparer": "Topper, Henry P"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "patientName": "Ariana Smith",
+      "birthDate": "04/05/1996",
+      "authorizingProvider": "Winston, Harry S",
+      "providerId": 1807526517021910,
+      "prescriptionDetails": [
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "atenolol 100 mg tablet",
+          "pharmacy": "Brooklyn @ Gates Pharmacy (C) (R) (SP) (LTC) (E) - 92 Gates Ave (Gates & Washington Aves), Brooklyn NY 11238",
+          "rxTransmissionType": "Fax",
+          "rxTransmissionStatusCode": "Pending",
+          "preparer": "Starr, Kelly P"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "patientName": "Liam Davis",
+      "birthDate": "04/05/1996",
+      "authorizingProvider": "Winston, Harry S",
+      "providerId": 1807526517021910,
+      "prescriptionDetails": [
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "Vitamin C 100 mg tablet (ascorbic acid (vitamin c))",
+          "pharmacy": "Brooklyn @ Gates Pharmacy (C) (R) (SP) (LTC) (E) - 92 Gates Ave (Gates & Washington Aves), Brooklyn NY 11238",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Error",
+          "preparer": "Starr, Kelly P"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "patientName": "Noah Lopez",
+      "birthDate": "21/05/1981",
+      "authorizingProvider": "Winston, Harry S",
+      "providerId": 1807526517021910,
+      "prescriptionDetails": [
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "Advil 200 mg tablet",
+          "pharmacy": "Boulevard Pharmacy (Boulevard) (C) (R) (E) - 1117 S.E. Frank Phillips Blvd., Bartlesville OK 740034319",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Error",
+          "preparer": "Miller, Jennifer S"
+        },
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "Zoloft 100 mg table",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Pending",
+          "preparer": "Topper, Henry P"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "patientName": "Jack Miller",
+      "birthDate": "03/05/2004",
+      "authorizingProvider": "Topper, Henry P",
+      "providerId": 1807526517021910,
+      "prescriptionDetails": [
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "Zoloft 100 mg table",
+          "pharmacy": "CHICKASAW NATION HEALTH DEPT (C) (R) (E) - 1921 STONECIPHER BOULEVARD, ADA OK 74820",
+          "rxTransmissionType": "Fax",
+          "rxTransmissionStatusCode": "Pending",
+          "preparer": "Brown, Chris H"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "patientName": "Ethan Hawke",
+      "birthDate": "04/04/2000",
+      "authorizingProvider": "Starr, Kelly P",
+      "providerId": 1807526517021910,
+      "prescriptionDetails": [
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "Vitamin B-1 (mononitrate) 100 mg tablet",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Fax",
+          "rxTransmissionStatusCode": "Error",
+          "preparer": "Winston, Harry S"
+        },
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "Zoloft 100 mg table",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Pending",
+          "preparer": "Topper, Henry P"
+        },
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "Zarah 3-0.03 mg tablet (drospirenone-ethinyl estradiol)",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Fax",
+          "rxTransmissionStatusCode": "Pending",
+          "preparer": "Topper, Henry P"
+        },
+        {
+          "requestedDate": "12/06/2022",
+          "medication": "Fanapt 6 mg tablet (iloperidone)",
+          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
+          "rxTransmissionType": "Electronic",
+          "rxTransmissionStatusCode": "Error",
+          "preparer": "Topper, Henry P"
+        }
+      ]
+    }
+  ]
 }
